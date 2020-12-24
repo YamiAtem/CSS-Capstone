@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+
+    padding-left: 45%;
+    padding-top:50px;
+}
+
+.links:hover {
+    background: rgb();
+}
+
+.links {
+    background: rgb(255, 238, 145);
+
+    width: 100px;
+    height: 50px;
+
+    border-radius: 10px;
+}
+
+.header{
+    background-color: cadetblue;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
